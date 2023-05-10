@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+CIFRE Doctoral Candidate at Ecole CentraleSupelec, University of Paris-Saclay with Prof. Jean-Christophe Pesquet. My thesis revolves around Lipschitz Analysis of Neural Networks for certified robustness and certified defenses and is titled "Quantification of Robustness in Neural Networks". I am interested in robustness and trustworthiness of neural networks. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I worked at Tata Consultancy Services Research and Innovation , Kolkata, India for three years before moving to France. I worked in Robotics and Vision Group. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my M.Tech in Electronics and Communication Engineering with specialization in Communication and Signal Processing from IIIT-Delhi and was a member of SALSA Research Lab (Batch 2014-2016). I did my masters thesis on Regularized Autoencoders under the guidance of Dr. Angshul Majumdar.
