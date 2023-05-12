@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /teaching/
 title: Research Interests
 description: 
 
