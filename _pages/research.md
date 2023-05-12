@@ -20,7 +20,7 @@ With the new wave of Large Vision and language models, it is imperative to under
 
 
 **Formal guarantees on robustness**\
-![Lip1](ipschitz Intuition.drawio.png)
+![Lip1](Lipschitz Intuition.drawio.png)
 <div style="text-align: justify"> 
 Heuristic approaches only provide empirical robustness. Such defenses are prone to blind spots and gives superficial sense of robustness which can be easily broken with stronger and better crafted attacks. Instead, I concentrate on providing formal guarantees and defenses using Lipschitz bounds which provides guaranteed bounds on the output of the network w.r.t to the input perturbations. Such methods are attack independent and provide stronger notion of robustness necessary for safety critical applications.</div>
 
