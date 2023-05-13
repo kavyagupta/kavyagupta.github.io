@@ -11,7 +11,8 @@ nav_order: 5
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
-<img src="assets/img/1.jpg" height="100"/>
+<img src="../assets/img/1.jpg" height="100"/>
+<img src="~/assets/img/1.jpg" height="100"/>
 
 **Robustness of large Vision and language models**
 <div style="text-align: justify"> With the new wave of Large Vision and language models, it is imperative to understand their robustness and trustworthiness. Such models are far from certified and cannot make their way to being deployed in real-time and safety-critical applications. Understanding these models and providing tools and methods to quantify/evaluate and promote their robustness is essential. Although with my latest work CertViT we could reduce the Lipschitz bounds to some extent, the values remain large and hence cannot be certified. Thereby giving more proof of the necessity and need of studying certification of robustness for large models in more depth. </div>
