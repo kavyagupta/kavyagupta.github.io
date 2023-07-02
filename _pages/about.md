@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-CIFRE Doctoral Candidate with at Ecole CentraleSupelec, **University of Paris-Saclay** and **Thales LAS France**. Advised by Prof. Jean-Christophe Pesquet. My thesis revolves around Lipschitz Analysis of Neural Networks for certified robustness and adversarial machine learning. I am interested in robustness, trustworthiness and reliability of neural networks. 
+Ph.D. Graduate specializing in the Robustness of neural networks from  Ecole CentraleSupelec, **University of Paris-Saclay** and **Thales LAS France**. I was advised by Prof. Jean-Christophe Pesquet. My thesis revolves around Lipschitz's Analysis of Neural Networks for certified Robustness and adversarial machine learning. I am interested in the Robustness, trustworthiness, and reliability of neural networks. 
 
-I worked at **Tata Consultancy Services Research and Innovation** (2016-2019), Kolkata, India before moving to France. I worked in Robotics and Vision Group. I worked on 2D and 3D human pose estimation from monocular videos, inverse problems for removing blur in images captured from fast moving drones and rendering personalized realistic facial animation of an avatar using 3D Face meshes synced with audio. 
+Before moving to France, I worked at **Tata Consultancy Services Research and Innovation** (2016-2019), Kolkata, India. I worked in Robotics and Vision Group. I worked on 2D and 3D human pose estimation from monocular videos, inverse problems for removing blur in images captured from fast-moving drones, and rendering personalized realistic facial animation of an avatar using 3D Face meshes synced with audio. 
 
-I completed my M.Tech in Electronics and Communication Engineering with specialization in Communication and Signal Processing from **IIIT-Delhi** and was a member of SALSA Research Lab (Batch 2014-2016). I did my masters thesis on Regularized Autoencoders under the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/). I also worked on compressive sensing and collaborative filtering. 
+I completed my M.Tech in Electronics and Communication Engineering with specialization in Communication and Signal Processing from **IIIT-Delhi** and was a member of SALSA Research Lab (Batch 2014-2016). I did my master's thesis on Regularized Autoencoders under the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/). I also worked on compressive sensing and collaborative filtering. 
 
 ## Research Interests 
 - Formal guarantees of robustness of neural networks
