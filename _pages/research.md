@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: <div style="text-align: justify"> My research focuses on various aspects of understanding vulnerabilities in neural networks. I study the robustness and trustworthiness of neural networks, understanding their behavior, evaluating and providing formal guarantees on their robustness for making AI systems work in their safe set throughout their life cycle.  I am focused on making AI systems safe, trustworthy, and responsible with scalable and efficient methods. My research interests include machine learning, optimization, and robustness. </div>
+description: My research focuses on various aspects of understanding vulnerabilities in neural networks. I study the robustness and trustworthiness of neural networks, understanding their behavior, evaluating and providing formal guarantees on their robustness for making AI systems work in their safe set throughout their life cycle.  I am focused on making AI systems safe, trustworthy, and responsible with scalable and efficient methods. My research interests include machine learning, optimization, and robustness. 
 
 nav: true
 nav_order: 5
