@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>code | Kavya  Gupta</title>
+    <title>Research | Kavya  Gupta</title>
     <meta name="author" content="Kavya  Gupta">
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-">
+    <meta name="description" content="My research focuses on various aspects of understanding vulnerabilities in neural networks. I study the robustness and trustworthiness of neural networks, understanding their behavior, evaluating and providing formal guarantees on their robustness for making AI systems work in their safe set throughout their life cycle.  I am focused on making AI systems safe, trustworthy, and responsible with scalable and efficient methods. My research interests include machine learning, optimization, and robustness.">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -39,7 +38,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://kavyagupta.github.io/blog/tag/code/">
+    <link rel="canonical" href="https://kavyagupta.github.io/research/">
 
     <!-- Dark Mode -->
     
@@ -82,8 +81,8 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/publications/">publications</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/research/">Research</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/research/">Research<span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -110,29 +109,40 @@
     <!-- Content -->
     <div class="container mt-5">
       
+        <!-- page.html -->
         <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title"> <i class="fas fa-hashtag fa-sm"></i> code </h1>
-    <p class="post-description"> an archive of posts with this tag </p>
-  </header>
+          <header class="post-header">
+            <h1 class="post-title">Research</h1>
+            <p class="post-description">My research focuses on various aspects of understanding vulnerabilities in neural networks. I study the robustness and trustworthiness of neural networks, understanding their behavior, evaluating and providing formal guarantees on their robustness for making AI systems work in their safe set throughout their life cycle.  I am focused on making AI systems safe, trustworthy, and responsible with scalable and efficient methods. My research interests include machine learning, optimization, and robustness.</p>
+          </header>
 
-  <article>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        <tr>
-          <th scope="row">Jul 15, 2015</th>
-          <td>
-              <a class="post-link" href="/blog/2015/code/">a post with code</a>
-          </td>
-        </tr>
-      
-      </table>
-    </div>
-  </article>
+          <article>
+            <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-</div>
+Organize your courses by years, topics, or universities, however you like! -->
+
+<h3 id="robustness-of-large-vision-and-language-models">Robustness of large Vision and language models</h3>
+<p align="center">
+<img src="../assets/img/transformer.png" height="300">
+</p>
+<div style="text-align: justify"> With the new wave of Large Vision and language models, it is imperative to understand their robustness and trustworthiness. Such models are far from certified and cannot make their way to being deployed in real-time and safety-critical applications. Understanding these models and providing tools and methods to quantify/evaluate and promote their robustness is essential. Although with my latest work CertViT we could reduce the Lipschitz bounds to some extent, the values remain large and hence cannot be certified. Thereby giving more proof of the necessity and need of studying certification of robustness for large models in more depth. </div>
+
+<h3 id="formal-guarantees-on-robustness">Formal guarantees on robustness</h3>
+<p align="center">
+<img src="../assets/img/Lipschitz.png" height="300">
+</p>
+<div style="text-align: justify"> Heuristic approaches only provide empirical robustness. Such defenses are prone to blind spots and gives superficial sense of robustness which can be easily broken with stronger and better crafted attacks. Instead, I concentrate on providing formal guarantees and defenses using Lipschitz bounds which provides guaranteed bounds on the output of the network w.r.t to the input perturbations. Such methods are attack independent and provide stronger notion of robustness necessary for safety critical applications.</div>
+
+<h3 id="robustness-and-ai-safety">Robustness and AI Safety</h3>
+<p align="center">
+<img src="../assets/img/cert.png" height="300">
+</p>
+<div style="text-align: justify"> Neural networks are being extensively used and deployed in a wide range of applications, including safety- and mission-critical tasks. Certified robustness of neural networks against perturbations caused by faults or maliciously inserted data is an important research topic in the machine learning community and a strict requirement from an industrial perspective. I develop methods and scalable tools that promote robustness of neural networks with concentration on real-world applications.</div>
+
+          </article>
+
+        </div>
 
       
     </div>
