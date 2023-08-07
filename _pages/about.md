@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CentraleSupelec,University Paris-Saclay
+subtitle: CentraleSupelec, University Paris-Saclay
 
 profile:
   align: right
