@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper won "Most innovative Solution" award in ChaBuD Competition ECML-PKDD. 
