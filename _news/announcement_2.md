@@ -1,8 +1,9 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+#title: A long announcement with details
+
+date: 2023-07-20 
+inline: true
 related_posts: false
 ---
 Presenting two papers on Certified Robustness in Frontiers in Adversarial Machine learning (AdvML) at ICML 2023.
