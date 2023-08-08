@@ -173,7 +173,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
@@ -205,7 +205,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages','_news']
+include: ['_pages']
 exclude:
   - bin
   - Gemfile
