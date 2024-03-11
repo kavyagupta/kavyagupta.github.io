@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CentraleSupelec, University Paris-Saclay
+subtitle: Postdoc, Saarland University
 
 profile:
   align: right
@@ -32,6 +32,4 @@ I completed my M.Tech in Electronics and Communication Engineering with speciali
 
 - Computer Vision
 
-- Image analysis
-
-- Optimization
+- Multi-objective Optimization
