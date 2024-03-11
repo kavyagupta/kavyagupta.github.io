@@ -15,6 +15,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Postdoctoral Researcher at **Saarland University** with **Prof. Isabel Valera**, working on Society-Aware Machine learning. 
 
 Ph.D. Graduate specializing in the Robustness of neural networks from  Ecole CentraleSupelec, **University of Paris-Saclay** and funded by **Thales LAS France**. I was advised by Prof. Jean-Christophe Pesquet. My thesis revolves around Lipschitz Constant Analysis of Neural Networks for certified Robustness and adversarial machine learning. I am interested in the Robustness, trustworthiness, and reliability of neural networks. 
 
