@@ -2,7 +2,8 @@
 layout: page
 permalink: /research/
 title: Research
-description: My research focuses on various aspects of understanding vulnerabilities in neural networks. I study the robustness and trustworthiness of neural networks, understanding their behavior, evaluating and providing formal guarantees on their robustness for making AI systems work in their safe set throughout their life cycle.  I am focused on making AI systems safe, trustworthy, and responsible with scalable and efficient methods. My research interests include machine learning, optimization, computer vision and robustness. 
+description:  My current research is focused on society-centered and interpretable AI. My Ph.D. research focused on certified robustness and AI safety, advancing theoretical foundations in trustworthy machine learning and their practical alignment. I am particularly interested in leveraging AI for positive societal impact, ensuring that AI systems operate
+responsibly, securely, and in accordance with safety and ethical standards. My goal is to contribute to research that fosters robust, transparent, and fair AI systems that uphold societal values while mitigating potential risks.
 
 nav: true
 nav_order: 5

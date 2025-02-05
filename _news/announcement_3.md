@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-07-20 15:59:00-0400
+date: 2024-07-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
-Volunteering at Women in Machine Learning Un-Workshop, ICML 2023.
-<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
+New paper : **Fairness Beyond Binary Decisions: A Case Study on German Credit** accepted at EWAF, 2024.
