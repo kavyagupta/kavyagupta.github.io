@@ -24,12 +24,10 @@ Before moving to France, I worked at **Tata Consultancy Services Research and In
 I completed my M.Tech in Electronics and Communication Engineering with specialization in Communication and Signal Processing from **IIIT-Delhi** and was a member of SALSA Research Lab (Batch 2014-2016). I did my master's thesis on Regularized Autoencoders under the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/). I also worked on compressive sensing and collaborative filtering. 
 
 ## Research Interests 
-- Formal guarantees of robustness of neural networks
+- Society-Centered AI, Robust and Interpretable AI
 
-- Robustness of large vision and language models
-
-- AI and Safety 
-
-- Computer Vision
+- Causality-driven Decision-Making 
 
 - Multi-objective Optimization
+
+- Formal guarantees of robustness of neural networks
